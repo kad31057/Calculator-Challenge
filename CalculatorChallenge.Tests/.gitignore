@@ -1,0 +1,55 @@
+# Ignore Visual Studio temporary files, build results, and
+# build logs.
+.vscode
+.vs
+.vscode
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Auto-generated files
+.csproj.user
+.csproj.nuget.g.props
+.csproj.nuget.g.targets
+
+# Ignore build output folders
+bin
+obj
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts
+
+# Ignore NuGet packages
+.nupkg
+.snupkg
+packages
+.nuget
+
+# Ignore compiled DLLs and EXEs
+.dll
+.exe
+.dll.config
+.exe.config
+
+# Ignore JetBrains Rider project files
+.idea
+
+# Ignore test output files
+TestResults
+
+# Ignore temporary files
+.tmp
+.temp
+.cache
+.pdb
+.log
+
+# User-specific files
+.rsuser
+.suo
+.user
+.userosscache
+.sln.docstates
