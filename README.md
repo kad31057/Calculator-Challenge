@@ -1,7 +1,7 @@
-Calculator Challenge
+Calculator Challenge:
 A basic calculator console application written in C# that performs addition based on specific rules. This application is designed to handle various input formats and delimiters, as outlined in the challenge requirements.
 
-Features
+Features: 
   Adds numbers provided in a single formatted string.
 Supports:
   Comma and newline as default delimiters.
